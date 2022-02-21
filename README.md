@@ -1,3 +1,5 @@
+Link repository github M. Iqbal Tawakkal: https://github.com/mit010994/proyek
+
 Role:
 Sebagai tim data science dari suatu perusahaan e-commerce yang bernama Grow-Ject, kami diminta untuk memberikan solusi bisnis untuk mengatasi masalah bisnis yang ada dengan tujuan meningkatkan performa bisnis berdasarkan data yang tersedia
 
