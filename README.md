@@ -1,4 +1,4 @@
-Link repository github M. Iqbal Tawakkal: https://github.com/mit010994/proyek
+Tracking E-Commerce Shipping
 
 Role:
 Sebagai tim data science dari suatu perusahaan e-commerce yang bernama Grow-Ject, kami diminta untuk memberikan solusi bisnis untuk mengatasi masalah bisnis yang ada dengan tujuan meningkatkan performa bisnis berdasarkan data yang tersedia
@@ -101,3 +101,5 @@ Dengan model machine learning ini, perusahaan dapat memperkirakan apakah barang 
 Barang yang diprediksi akan terlambat akan dimasukkan ke dalam prioritized tracking, yang mana barang tersebut akan lebih dimonitor daripada barang yang diprediksi akan tepat waktu.
 Pemilik barang yang terlambat datang akan menerima pesan/notifikasi permintaan maaf dari perusahaan serta info mengenai penyebab keterlambatan tersebut.
 Apabila barang masih tidak tiba hingga waktu toleransi yang telah ditentukan, pemilik barang tersebut akan mendapatkan kompensasi berupa kupon potongan harga (diskon) atau refund
+
+
